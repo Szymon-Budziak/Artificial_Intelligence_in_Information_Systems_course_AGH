@@ -1,0 +1,1 @@
+# Artificial_Intelligence_in_Information_Systems_course_AGH
