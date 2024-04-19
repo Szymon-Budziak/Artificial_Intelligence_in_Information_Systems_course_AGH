@@ -160,3 +160,5 @@ cython_debug/
 .idea/
 src/sisi/Lab_5/image.png
 src/sisi/Lab_5/IRIS_FogML
+src/sisi/Lab_6/lab6.pdf
+.DS_Store
